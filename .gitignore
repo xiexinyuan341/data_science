@@ -1,0 +1,18 @@
+.ipynb_checkpoints
+.idea
+venv/
+cache
+*.py[cod]
+
+scikit_learn_data
+
+# python忽略文件
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# C extensions
+*.so
+# Distribution / packaging
+.Python
+env/
+.env
