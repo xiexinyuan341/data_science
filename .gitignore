@@ -4,7 +4,9 @@ venv/
 cache
 *.py[cod]
 
-scikit_learn_data
+spark-warehouse/
+metastore_db/
+scikit_learn_data/
 
 # python忽略文件
 # Byte-compiled / optimized / DLL files
